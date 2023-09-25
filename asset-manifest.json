@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ekkyu.github.io/csb-hlvw56/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://ekkyu.github.io/csb-hlvw56/static/js/main.ab06dcc6.chunk.js",
+    "main.js.map": "https://ekkyu.github.io/csb-hlvw56/static/js/main.ab06dcc6.chunk.js.map",
+    "runtime-main.js": "https://ekkyu.github.io/csb-hlvw56/static/js/runtime-main.3cd9ddad.js",
+    "runtime-main.js.map": "https://ekkyu.github.io/csb-hlvw56/static/js/runtime-main.3cd9ddad.js.map",
+    "static/js/2.4c0fb62f.chunk.js": "https://ekkyu.github.io/csb-hlvw56/static/js/2.4c0fb62f.chunk.js",
+    "static/js/2.4c0fb62f.chunk.js.map": "https://ekkyu.github.io/csb-hlvw56/static/js/2.4c0fb62f.chunk.js.map",
+    "index.html": "https://ekkyu.github.io/csb-hlvw56/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://ekkyu.github.io/csb-hlvw56/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.4c0fb62f.chunk.js.LICENSE.txt": "https://ekkyu.github.io/csb-hlvw56/static/js/2.4c0fb62f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3cd9ddad.js",
+    "static/js/2.4c0fb62f.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.ab06dcc6.chunk.js"
+  ]
+}
